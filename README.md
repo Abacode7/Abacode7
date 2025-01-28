@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Rust Substrate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abacode7](https://github.com/Abacode7)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Abacode7)
 
 - 💬 Ask me about **Software Enginering & Architecture...or anything**
 
