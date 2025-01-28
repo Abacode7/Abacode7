@@ -44,8 +44,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,golang,rust,python,tensorflow,elixir,spanner,mysql,redis,cassandra,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,jenkins,html,css,js,git,postman,heroku,graphana,elk" />
+  <img src="https://skillicons.dev/icons?i=java,spring,golang,rust,python,tensorflow,elixir,mysql,redis,cassandra,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,terraform,jenkins,kafka,rabbitmq,html,css,js,git,postman,heroku,graphana" />
 </p>
 
 <hr>
